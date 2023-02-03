@@ -3574,4 +3574,4 @@ async def send(interaction: nextcord.Interaction):
 
 
 
-client.run("OTk5Mjg4MjQ0NDc2ODUwMjM2.GXWf7M.XDZoGguDHliKFp4v_zydlRAu4dGr-QQsxmUlkM")
+client.run("OTk5Mjg4MjQ0NDc2ODUwMjM2.GZO53R.mzf5wN6N-sWhgiK2p7GSi7fX3K-IH5aD5oplAM")
